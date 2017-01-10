@@ -44,3 +44,7 @@ c:\users\elisvieira\documents\visual studio 2015\Projects\Projeto01\Projeto01\bi
 c:\users\elisvieira\documents\visual studio 2015\Projects\Projeto01\Projeto01\obj\Debug\Projeto01.csprojResolveAssemblyReference.cache
 c:\users\elisvieira\documents\visual studio 2015\Projects\Projeto01\Projeto01\obj\Debug\Projeto01.dll
 c:\users\elisvieira\documents\visual studio 2015\Projects\Projeto01\Projeto01\obj\Debug\Projeto01.pdb
+C:\Users\elisvieira\Documents\Visual Studio 2015\Projects\Projeto01\Projeto01\bin\EntityFramework.dll
+C:\Users\elisvieira\Documents\Visual Studio 2015\Projects\Projeto01\Projeto01\bin\EntityFramework.SqlServer.dll
+C:\Users\elisvieira\Documents\Visual Studio 2015\Projects\Projeto01\Projeto01\bin\EntityFramework.xml
+C:\Users\elisvieira\Documents\Visual Studio 2015\Projects\Projeto01\Projeto01\bin\EntityFramework.SqlServer.xml
